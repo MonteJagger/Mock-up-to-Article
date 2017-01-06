@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I have spent a few months working with HTML so I would say that the course so far has been quite easy, but I'm sure it will be difficult later down the road. I guess the most difficult would be adjusting to the Atom IDE and learning the shortcuts. I have learned more in depth about the trees and the names such as elements, tags, attributes. Knowing the names makes it much easier when I am looking for specific answers online. 
+
+When looking at the whole at all the tools that can be used I felt like I was being overwhelmed, but using one the 3 specific tasks, I thought about how far I've gone and looked forward in the weeks to come to see how far I will be in my education.
